@@ -1,0 +1,15 @@
+.ONE{
+    padding-top: 100px;
+    background-color: blueviolet;
+    height: 200px;
+    width: 400px;
+    padding-left: 200px;
+    border: 15px solid royalblue;
+
+}
+.THIRD{
+    background-color: chartreuse;
+    height: 70px;
+    width: 200px;
+    border: 10px solid red ;
+}
